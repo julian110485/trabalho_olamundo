@@ -1,1 +1,2 @@
-Todas as informa��es esta restritas
+Todas as informações esta restritas
+Não podem ser editas as informações.
